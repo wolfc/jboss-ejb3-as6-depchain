@@ -485,10 +485,6 @@
             <artifactId>jboss-metadata</artifactId>
           </exclusion>
           <exclusion>
-            <groupId>org.jboss.cache</groupId>
-            <artifactId>jbosscache-core</artifactId>
-          </exclusion>
-          <exclusion>
             <groupId>jboss</groupId>
             <artifactId>jboss-test</artifactId>
           </exclusion>
